@@ -1,6 +1,11 @@
 # Adire-Image-Compression-Using-KMeans-Clustering-Algorithm
 On this project, image compression was performed on Adire shirt, a cultural textile design in south-west Nigeria, Africa. This repository contains the code and environmental resources for the said project using the kmeans algorithm.
 
+<p align="left">
+  <img src="adire.jpg" alt="description" width="700" height="auto"/>
+</p>
+
+
 # About Kmeans Model
 KMeans is one of the most straightforward and popular unsupervised machine learning algorithms. Its simplicity, efficiency and most importantly, versatility are what set it apart. Whether you’re in for image compression, customer segmentation, genomics or anomaly detection, you see, KMeans is your guy.
 
