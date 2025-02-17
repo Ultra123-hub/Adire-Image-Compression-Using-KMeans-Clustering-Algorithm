@@ -26,9 +26,7 @@ was taken for the 3d plot.
 # Visualization
 Having plotted the colour swatches on the Adire photograph, the results is as thus:
 
-<p align="left">
-  <img src="download.gif" alt="description" width="700" height="auto"/>
-</p>
+![Alt text](download.gif)
 
 # instantiation and fitting of the model
 With the number of centroids k = 6
