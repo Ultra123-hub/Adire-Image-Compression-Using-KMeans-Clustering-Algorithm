@@ -49,3 +49,5 @@ Moving on, the model is evaluated using the elbow method by plotting different i
   <img src="inertia_plot.png" alt="description" width="700" height="auto"/>
 </p>
 
+Another useful metric for model performance evaluation is the silhouette score, which is contained in the repository.
+
