@@ -46,6 +46,6 @@ In a bid to visualize the clustering ability of the kmean model across different
 Moving on, the model is evaluated using the elbow method by plotting different inertia scores across multiple k-values (for instance, 2 through 11).
 
 <p align="left">
-  <img src=" " alt="description" width="700" height="auto"/>
+  <img src="inertia_plot.png" alt="description" width="700" height="auto"/>
 </p>
 
