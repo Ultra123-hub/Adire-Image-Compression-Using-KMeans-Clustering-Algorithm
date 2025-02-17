@@ -19,9 +19,35 @@ KMeans is one of the most straightforward and popular unsupervised machine learn
 Conversion of the image data into a row-column data in RGB dimension. Processing revealed that the data has 1112320 x 3 dimension. However, due to our computing power, a sample of 700,00
 was taken for the 3d plot.
 
-# Visualization
+<p align="left">
+  <img src="flowchart.png" alt="description" width="700" height="auto"/>
+</p>
 
-# instantiation of the model
+# Visualization
+Having plotted the colour swatches on the Adire photograph, the results is as thus:
+
+<p align="left">
+  <img src="download.gif" alt="description" width="700" height="auto"/>
+</p>
+
+# instantiation and fitting of the model
 With the number of centroids k = 6
 
-# 
+<p align="left">
+  <img src="kmeans_flowchart.png" alt="description" width="700" height="auto"/>
+</p>
+
+# Optimizing the k values from 2 through 11
+In a bid to visualize the clustering ability of the kmean model across different number of clusters (k), a function that displays the said image across multiple values of k is written.
+
+<p align="left">
+  <img src="shirt_images.png" alt="description" width="700" height="auto"/>
+</p>
+
+# Evaluating the model using major evaluation metrics like inertia and silhouette scores.
+Moving on, the model is evaluated using the elbow method by plotting different inertia scores across multiple k-values (for instance, 2 through 11).
+
+<p align="left">
+  <img src="inertia_plot.png" alt="description" width="700" height="auto"/>
+</p>
+
